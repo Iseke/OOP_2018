@@ -40,10 +40,10 @@ class medium1{
                 }
             }
             if(stack.isEmpty()){
-                System.out.println("true");
+                System.out.println("yes");
             }
             else{
-                System.out.println("false");
+                System.out.println("no");
 
             }
         }

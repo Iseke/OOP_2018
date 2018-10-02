@@ -1,4 +1,4 @@
-import java.awt.geom.Point2D;
+import java.awt.*;
 import java.lang.*;
 
 public class Lab3D {
@@ -21,9 +21,11 @@ abstract class Peace
     public abstract void isLegalMove(int x,int y,int x1,int y1);
 
 }
-class Rook extends Peace
+class Rook extends Peace  //Ladiya
 {
     int x,y,x1,y1;
+    public Point locationX;
+
     Rook(){
         x=0;
         y=0;
@@ -38,6 +40,7 @@ class Rook extends Peace
     }
     @Override
     public void isLegalMove(int x,int y,int x1,int y1) {
+
         if(x==x1 || y==y1){
             System.out.println("Rook can move");
         }
@@ -46,6 +49,7 @@ class Rook extends Peace
 }
 class King extends Peace
 {
+    public Point locationX;
     int x,y,x1,y1;
     King(){
         x=0;
@@ -70,7 +74,7 @@ class King extends Peace
 
     }
 }
-class Queen extends Peace
+class Queen extends Peace //Ferz
 {
     int x,y,x1,y1;
     Queen(){
@@ -93,7 +97,7 @@ class Queen extends Peace
         else System.out.println("Queen can't move");
     }
 }
-class Bishop extends Peace
+class Bishop extends Peace  //Slon
 {
     int x,y,x1,y1;
     Bishop(){
@@ -116,7 +120,7 @@ class Bishop extends Peace
         else System.out.println("Bishop can't move");
     }
 }
-class Knight extends Peace
+class Knight extends Peace  //Kon'
 {
     int x,y,x1,y1;
     Knight(){

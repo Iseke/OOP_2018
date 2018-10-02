@@ -108,7 +108,7 @@ class Manager extends  Employee
         return "Team: "+team+" Bonus :"+bonus+"\n"+super.toString()+""+s;
     }
     public boolean equals(Manager m){
-        if(super.equals(m) &&  this.bonus == m.bonus )return true;
+        if(super.equals(m) &&  this.team == m.team )return true;
         return false;
     }
 }

@@ -62,7 +62,7 @@ class EnglishNumbers{
                     vse = numNames[h] + " hundred [and]" + numNames[t];
                 }
                 else if(t==0){
-                    vse = "";
+                    vse = numNames[h] + " hundred";
                 }
             }
             else if(h==0){
@@ -74,7 +74,7 @@ class EnglishNumbers{
                         vse =  numNames[t];
                     }
                     else{
-                        vse = "and "+ numNames[t];
+                        vse =  numNames[t];
                     }
                 }
                 else if(t==0){

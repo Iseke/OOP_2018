@@ -1,14 +1,21 @@
 import java.util.Scanner;
 class Reap{
-    public String arr(int[] a){
-        int[] b={a.length*2};
-        String s="";
-       for(int i=0;i<a.length;i++){
-          s+=a[i]+" "+ a[i]+" ";
-       }
+    public int[] arr(int[] a){
+        int[] b = new int[a.length*2];
 
-        return s;
+        for(int i=0;i<a.length;i++){
+            b[i*2] = a[i];
+            b[i*2+1]=a[i];
+
+        }
+
+
+        for(int i=0;i<b.length;i++){
+            System.out.print(b[i]+" ");
+        }
+        return b;
     }
+
 }
 public class E {
     public static void main(String[] args){

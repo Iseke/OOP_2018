@@ -31,11 +31,15 @@ class Timee{
     }
     public void toStandart(){
         String s="";
+        String tm="";
         if(hour>=10){
+
             if(hour>=10&&hour<12){
                 s="'"+hour;
+               tm = "AM";
             }
             else if(hour>=12){
+                tm="PM";
                 if(hour%12>=10){
                     s="'"+hour%12;
                 }
@@ -46,6 +50,7 @@ class Timee{
             }
         }
         else if(hour<10){
+            tm="AM";
             s="'0"+hour;
         }
         if(minute>=10){
@@ -55,10 +60,10 @@ class Timee{
             s=s+":0"+minute;
         }
         if(second>=10){
-            s=s+":"+second+"' PM";
+            s=s+":"+second+"' "+tm;
         }
         else if(second<10){
-            s=s+":0"+second+"' PM";
+            s=s+":0"+second+"' "+tm;
         }
         System.out.println(s);
     }
@@ -88,8 +93,8 @@ class Timee{
 public class D {
 
     public static void main(String[] args){
-        Timee time = new Timee(23,1,17);
-        Timee time2 = new Timee(11,23,39);
+        Timee time = new Timee(5,45,37);
+        Timee time2 = new Timee(23,23,39);
         time.add(time2);
         time.toUniversal();
         time.toStandart();

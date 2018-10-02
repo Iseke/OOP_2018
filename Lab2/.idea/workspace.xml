@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b113a2ff-c05a-42ae-ab79-c23a62204276" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/hacker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/hacker/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../medium1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../medium1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/E.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/E.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/EnglishNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/EnglishNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/Reap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/Reap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/Timee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/Timee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/F.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/F.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src" beforeDir="false" afterPath="$PROJECT_DIR$/../src" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,91 +24,106 @@
     <session id="-1255242756">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="java" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2727" />
+          <entry key="java" value="8893" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2727" />
+          <entry key="JAVA" value="8893" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A.java">
+        <entry file="file://$PROJECT_DIR$/src/Lab3A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/b.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-60">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="900">
+              <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
               <folding>
-                <element signature="e#76#77#0" expanded="true" />
-                <element signature="e#101#102#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
+                <element signature="e#686#687#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/F.java">
+        <entry file="file://$PROJECT_DIR$/src/Lab3B.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-55">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/E.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="91" column="39" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
+            <state relative-caret-position="2580">
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
+              <folding>
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#612#613#0" expanded="true" />
+                <element signature="e#693#694#0" expanded="true" />
+                <element signature="e#765#766#0" expanded="true" />
+                <element signature="e#1082#1083#0" expanded="true" />
+                <element signature="e#1148#1149#0" expanded="true" />
+                <element signature="e#1252#1253#0" expanded="true" />
+                <element signature="e#1324#1325#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/C.java">
+        <entry file="file://$PROJECT_DIR$/src/Lab3C.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+            <state relative-caret-position="114">
+              <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
               <folding>
-                <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#75#76#0" expanded="true" />
+                <element signature="e#94#95#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#1695#1705#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab3D.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3734">
+              <caret line="134" column="56" lean-forward="true" selection-start-line="134" selection-start-column="56" selection-end-line="134" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -124,14 +146,18 @@
       <list>
         <option value="$PROJECT_DIR$/src/A.java" />
         <option value="$PROJECT_DIR$/src/b.java" />
-        <option value="$PROJECT_DIR$/src/F.java" />
-        <option value="$PROJECT_DIR$/src/E.java" />
-        <option value="$PROJECT_DIR$/src/D.java" />
         <option value="$PROJECT_DIR$/src/C.java" />
+        <option value="$PROJECT_DIR$/src/F.java" />
+        <option value="$PROJECT_DIR$/src/D.java" />
+        <option value="$PROJECT_DIR$/src/E.java" />
+        <option value="$PROJECT_DIR$/src/Lab3A.java" />
+        <option value="$PROJECT_DIR$/src/Lab3B.java" />
+        <option value="$PROJECT_DIR$/src/Lab3C.java" />
+        <option value="$PROJECT_DIR$/src/Lab3D.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -142,25 +168,10 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536617980647" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538453517212" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -174,21 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.C">
-    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C" />
-      <module name="Lab2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D" />
-      <module name="Lab2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab3C">
     <configuration name="E" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E" />
       <module name="Lab2" />
@@ -196,34 +193,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="F" />
+    <configuration name="Lab3A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab3A" />
       <module name="Lab2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b" />
+    <configuration name="Lab3B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab3B" />
+      <module name="Lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab3C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab3C" />
+      <module name="Lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab3D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab3D" />
       <module name="Lab2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.b" />
-      <item itemvalue="Application.F" />
       <item itemvalue="Application.E" />
-      <item itemvalue="Application.D" />
-      <item itemvalue="Application.C" />
+      <item itemvalue="Application.Lab3A" />
+      <item itemvalue="Application.Lab3B" />
+      <item itemvalue="Application.Lab3C" />
+      <item itemvalue="Application.Lab3D" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C" />
-        <item itemvalue="Application.D" />
+        <item itemvalue="Application.Lab3C" />
+        <item itemvalue="Application.Lab3D" />
+        <item itemvalue="Application.Lab3B" />
+        <item itemvalue="Application.Lab3A" />
         <item itemvalue="Application.E" />
-        <item itemvalue="Application.F" />
-        <item itemvalue="Application.b" />
       </list>
     </recent_temporary>
   </component>
@@ -244,32 +255,32 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.24963397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32911393" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37974682" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39873418" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32911393" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -312,6 +323,52 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4830">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="95" column="37" selection-start-line="95" selection-start-column="37" selection-end-line="95" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="38" column="48" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
+          <folding>
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/E.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/F.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="76" column="30" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -319,56 +376,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
+    <entry file="file://$PROJECT_DIR$/src/Lab3A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4830">
-          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+        <state relative-caret-position="900">
+          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
           <folding>
-            <element signature="e#10065#10066#0" expanded="true" />
-            <element signature="e#10148#10149#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/b.java">
+    <entry file="file://$PROJECT_DIR$/src/Lab3B.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state relative-caret-position="2580">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
           <folding>
-            <element signature="e#76#77#0" expanded="true" />
-            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1252#1253#0" expanded="true" />
+            <element signature="e#1324#1325#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/F.java">
+    <entry file="file://$PROJECT_DIR$/src/Lab3D.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="91" column="39" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        <state relative-caret-position="3734">
+          <caret line="134" column="56" lean-forward="true" selection-start-line="134" selection-start-column="56" selection-end-line="134" selection-end-column="56" />
           <folding>
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab3C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+          <folding>
+            <element signature="e#75#76#0" expanded="true" />
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#1695#1705#0" expanded="true" />
           </folding>
         </state>
       </provider>

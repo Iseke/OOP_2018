@@ -1,22 +1,23 @@
+import java.util.Arrays;
+import java.util.Vector;
+
 public class Lab3E {
-    public static void printInformation(Person1 p) {
-        p.getName();
-    }
+//    public static void printInformation(Person1 p) {
+//        p.getName();
+//    }
 
     public static void main(String args[]) {
         Student1 st = new Student1("Islam");
         Employee1 emp = new Employee1("Madi");
 
-        Person1 per;
+        Vector<Person1> per = new Vector<Person1>();
+        per.add(st);
+        per.add(emp);
+        for(int i=0;i<per.size();i++){
+           per.get(i).getName();
+        }
 
-        per = st;
-        per.getName();
 
-        per = emp;
-        per.getName();
-
-        printInformation(st);
-        printInformation(emp);
     }
 }
  class Person1 {

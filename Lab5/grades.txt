@@ -1,0 +1,9 @@
+Ivanov Ivan-"B"
+Yerbolov Dauren-"D"
+Abdukarimov Islam-"A"
+Keshylbaev Madi-"C"
+Palenshiyev Palenshe-"F"
+Abacaba Anca-"F"
+Average- 56
+Maximum- 85
+Minimum- 35

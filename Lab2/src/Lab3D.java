@@ -49,7 +49,7 @@ class Rook extends Peace  //Ladiya
 }
 class King extends Peace
 {
-    public Point locationX;
+
     int x,y,x1,y1;
     King(){
         x=0;

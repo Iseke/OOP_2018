@@ -1,3 +1,6 @@
+import org.omg.CORBA.OBJECT_NOT_EXIST;
+import org.omg.CORBA.Object;
+
 import java.util.Vector;
 
 public class Lab3C {
@@ -17,6 +20,7 @@ public class Lab3C {
         Manager manager1 = new Manager(50,"Iasdfasa",3500,2,"iseke18");
         manager1.AddEmployee(employee1);
         manager1.AddEmployee(employee);
+
         System.out.println(manager1.toString());
         System.out.println(manager1.equals(manager));
     }
@@ -39,7 +43,8 @@ class Person
     public String toString(){
         return name;
     }
-    public boolean equals(Person pers){
+    public boolean equals(Object obj){
+        Person pers = (Person)obj;
         if(this.name.equals(pers.name))return true;
         return false;
     }
@@ -64,8 +69,9 @@ class Employee extends Person
         this.yearofwork = yearOfwork;
         this.insuranceNumber = insuranceNumber;
     }
-    public boolean equals(Employee employee){
-        if(super.equals(employee)&& this.salary==employee.salary && this.yearofwork==employee.yearofwork && this.insuranceNumber==employee.insuranceNumber)return true;
+    public boolean equals(Object obj){
+        Employee employee = (Employee)obj;
+        if(super.equals(employee)&& this.salary==employee.salary && this.yearofwork==employee.yearofwork && this.insuranceNumber.equals(employee.insuranceNumber))return true;
         return false;
     }
     public String toString(){
@@ -107,7 +113,8 @@ class Manager extends  Employee
         }
         return "Team: "+team+" Bonus :"+bonus+"\n"+super.toString()+""+s;
     }
-    public boolean equals(Manager m){
+    public boolean equals(Object obj){
+        Manager m = (Manager)obj;
         if(super.equals(m) &&  this.team == m.team )return true;
         return false;
     }
